@@ -11,8 +11,6 @@ namespace Hello
         {
             Console.WriteLine("Hello Wrold");
             Console.WriteLine("Welcome to C#");
-            Console.WriteLine("Bya!");
-
             Console.ReadKey();
         }
     }
